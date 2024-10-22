@@ -1,0 +1,7 @@
+{
+  "name": "BSIT4-DINAMPO",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
